@@ -5,7 +5,7 @@
       "symbol": "OHO",
       "icon": "oho.png",
       "precision": 4,
-      "name": "OHO MAINNET",
+      "name": "OHO TESTNET",
       "network": "TESTNET",
       "firstApi": "http://173.249.44.99:5551",
       "historyApi": "",
