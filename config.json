@@ -1,0 +1,51 @@
+{
+  "chains": [
+     {
+      "id": "99003fe3d41c1ba530f20ba870c47a8c4921f166e5af35b7cd973c828ff7bb58",
+      "symbol": "OHO",
+      "icon": "oho.png",
+      "precision": 4,
+      "name": "OHO MAINNET",
+      "network": "TESTNET",
+      "firstApi": "http://173.249.44.99:5551",
+      "historyApi": "",
+      "hyperionApis": [
+      ],
+      "forumTally": "",
+      "eosrioBP": "",
+      "proxyRegistry": "",
+      "lastNode": "http://173.249.44.99:5551",
+      "logoSrc": "",
+      "backdrop": "",
+      "features": {
+        "history": true,
+        "send": true,
+        "resource": true,
+        "vote": true,
+        "staking": true,
+        "dapps": true,
+        "addAcc": true,
+        "newAcc": true,
+        "forum": false,
+        "rex": false
+      },
+      "system": [
+        "eosio",
+        "eosio.token",
+        "eosio.msig",
+        "eosio.forum"
+      ],
+      "endpoints": [
+        {
+          "url": "http://173.249.44.99:5551",
+          "owner": "Oho network",
+          "latency": 492
+        }
+      ],
+      "explorers": [
+      ],
+      "exchanges": {
+      }
+    }
+  ]
+}
